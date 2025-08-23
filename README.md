@@ -32,7 +32,7 @@ Includes:
 ## 🛠️ Tech Stack  
 **Languages:** Python, C++, Java, SQL  
 **AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Flower  
-**Tools & Platforms:** Docker, Git, Linux, FastAPI, AWS  
+**Tools & Platforms:** Docker, Git, Linux, FastAPI
 **Other:** Promela, NuSMV (formal verification)  
 
 ---
