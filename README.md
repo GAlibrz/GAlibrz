@@ -54,6 +54,5 @@ Collection of formal verification models developed at FAU.
 
 - Learning-based reasoning and structured inference  
 - Interaction and human-in-the-loop learning  
-- Robust machine learning under distributional shifts  
 - **Agent orchestration and control flows using LangGraph**  
 - **Graph-based representations and databases (Neo4j) for structured knowledge integration**
