@@ -1,50 +1,59 @@
-# 👋 Hi, I’m Ali Bagherzadeh  
+# Hi, I’m Ali Bagherzadeh
 
-🎓 Master’s student in **Artificial Intelligence** at FAU Erlangen–Nürnberg  
-💻 **R&D Working Student (AI/ML)** at Innomotics – developing **agentic AI workflows** and **LLM-based pipelines**  
-🔬 Research interests: **Agentic AI, Multi-Agent Systems, LLM Fine-Tuning, and Applied Machine Learning**  
+I am a Master’s student in **Artificial Intelligence** at **Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU)**.  
+I currently work as an **R&D Working Student** at **Innomotics**, where I contribute to AI-based systems for industrial data analysis.
 
----
-
-## 📌 Selected Projects  
-
-### 🔹 [Federated Fraud Detection (Flower + PyTorch)](https://github.com/GAlibrz/federated-fraud-detection)  
-Federated learning framework for **payment fraud detection**, built with Flower and PyTorch.  
-- Implements skew-aware partitioning, focal loss, weighted sampling, and label smoothing  
-- Provides CLI tools for simulation, evaluation, and visualization  
-- Supports per-client evaluation with **F1, ROC-AUC, and confusion matrices**  
-- Research focus: addressing **imbalanced data in federated learning**  
+My academic interests focus on **machine learning for reasoning and structured decision-making**, particularly in interactive and learning-based systems. I am interested in how models transform unstructured input into consistent internal representations, and how such processes can be learned rather than manually specified.
 
 ---
 
-### 🔹 [Formal Verification Course](https://github.com/GAlibrz/formal-verification-course)  
-Models and solutions for **formal verification problems** at FAU using Promela (SPIN) and NuSMV.  
-Includes:  
-- Towers of Hanoi solver (`.smv`)  
-- River Puzzle II with constraints (`.pml`)  
-- 7x7 Grid Number Puzzle (`.pml`)  
-- Distributed counter with race conditions (`.pml`)  
-- House arrangement constraints (`.smv`)  
-- Stack verification with CTL/LTL specifications (`.smv`)  
+## Selected Projects
+
+### Mujosign — Language-Conditioned Control in Musculoskeletal Simulation
+Research project on learning physiologically plausible hand-gesture control in a MyoSuite (MuJoCo) environment.
+- Natural-language gesture descriptions mapped to structured control targets
+- Continuous muscle activation learned using reinforcement learning (Soft Actor–Critic)
+- Integration of language models, biomechanics, and learning-based control
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, C++, Java, SQL  
-**AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Flower  
-**Tools & Platforms:** Docker, Git, Linux, FastAPI
-**Other:** Promela, NuSMV (formal verification)  
+### Deep Learning Challenge (FAU)
+Course-wide competitive project focused on learning under data imbalance.
+- Achieved top leaderboard performance (F1 = 0.91)
+- Emphasis on model robustness and evaluation rather than architecture novelty
 
 ---
 
-## 🌱 Currently Learning  
-- Fine-tuning **LLMs** for domain-specific applications  
-- Integrating Knowledge Graphs to enrich **LLM context**  
-- MLOps/LLMOps practices for scalable AI deployment  
+### Federated Fraud Detection
+Federated learning framework for payment fraud detection using Flower and PyTorch.
+- Skew-aware client partitioning and imbalance-aware training strategies
+- Evaluation with per-client metrics (F1, ROC-AUC, confusion matrices)
+- Focus on robustness under heterogeneous data distributions
 
 ---
 
-## 📫 Let’s Connect  
-- [LinkedIn](https://linkedin.com/in/ali--bagherzadeh--)  
-- [GitHub](https://github.com/galibrz)  
-- 📍 Erlangen, Germany  
+### Formal Verification (Course Projects)
+Collection of formal verification models developed at FAU.
+- Promela (SPIN) and NuSMV specifications
+- Temporal logic (CTL/LTL)–based reasoning over concurrent and distributed systems
+- Emphasis on correctness and state-space analysis
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C++, Java, SQL  
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Flower  
+**Simulation & Systems:** MuJoCo, MyoSuite, Docker, Linux  
+**Verification:** Promela, NuSMV  
+**Development:** Git, FastAPI
+
+---
+
+## Current Focus
+
+- Learning-based reasoning and structured inference  
+- Interaction and human-in-the-loop learning  
+- Robust machine learning under distributional shifts  
+- **Agent orchestration and control flows using LangGraph**  
+- **Graph-based representations and databases (Neo4j) for structured knowledge integration**
