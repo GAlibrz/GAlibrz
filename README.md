@@ -43,7 +43,7 @@ Collection of formal verification models developed at FAU.
 ## Technical Skills
 
 **Programming:** Python, C++, Java, SQL  
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Flower  
+**Machine Learning:** PyTorch, TensorFlow,Langgraph, Scikit-learn, Flower  
 **Simulation & Systems:** MuJoCo, MyoSuite, Docker, Linux  
 **Verification:** Promela, NuSMV  
 **Development:** Git, FastAPI
